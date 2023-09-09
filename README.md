@@ -1,5 +1,8 @@
 # Analysing-tweets
 A dataset of 100 tweets was collected from https://www.trackmyhashtag.com/ within a 24-hour window. The analysis focused on quantifying tweet retweet frequencies and exploring potential correlations between retweets and likes. Additionally, user activity patterns were investigated, specifically examining the number of followers and accounts they followed to identify active users. The timing of tweet posts and activity levels during different hours of the day was also examined. Lastly, the study delved into the activity of user accounts regarding their citation dates to determine which type of content, whether tweets or retweets, garnered more attention and engagement.
+        12 AM	01 AM	02 AM	03 AM	04 AM	06 PM	07 PM	08 PM	09 PM	10 PM	11 PM	
+23-Apr						                      1	    11	  10	  8	    7	    9	
+24-Apr	  7      7	  15	  17	  8							
 
 ![image](https://github.com/Jnani-222/Analysing-tweets/assets/87640995/c0348b12-dfdb-473a-9a40-1cee3a7b0b80)
 ![image](https://github.com/Jnani-222/Analysing-tweets/assets/87640995/947e520f-a79b-4c6d-8ee3-e85a444587b7)
